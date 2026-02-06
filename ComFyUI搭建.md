@@ -10,11 +10,11 @@
 
 右键空白处，选择“添加节点”=》"加载器" =》“Checkpoint加载器（简易）”
 
-<img src="images\buildComfyUI\01.png" align = left alt="some_text">
+<img src="images\buildComfyUI\01.png" alt="some_text">
 
 
 
-<img src="images\buildComfyUI\02.png " align = left alt="加载器界面" style="zoom:50%;" >
+<img src="images\buildComfyUI\02.png " alt="加载器界面" style="zoom:50%;" >
 
 点击“Checkpoint”可以选择自己想要使用的模型
 
@@ -24,7 +24,7 @@
 
 右键空白处，选择“添加节点”=》"采样" =》“K采样器”
 
-<img src="images\buildComfyUI\03.png " align = left alt="加载器界面" style="zoom:50%;" >
+<img src="images\buildComfyUI\03.png " alt="加载器界面" style="zoom:50%;" >
 
 
 
@@ -37,9 +37,9 @@
 
 右键空白处，选择“添加节点”=》"Latent" =》“VAE解码”
 
-<img src="images\buildComfyUI\05.png " align = left alt="加载器界面" style="zoom:50%;" >
+<img src="images\buildComfyUI\05.png " alt="加载器界面" style="zoom:50%;" >
 
-<img src="images\buildComfyUI\06.png " align = left alt="加载器界面" style="zoom:80%;" >
+<img src="images\buildComfyUI\06.png " alt="加载器界面" style="zoom:80%;" >
 
 ## 第四步添加clip文本编辑器
 
@@ -47,9 +47,10 @@
 
 右键空白处，选择“添加节点”=》"条件" =》“Clip文本编辑器”
 
-<img src="images\buildComfyUI\07.png " align = left alt="加载器界面" style="zoom:50%;" >
+<img src="images\buildComfyUI\07.png " alt="加载器界面" style="zoom:50%;" >
 
-<img src="images\buildComfyUI\08.png " align = left alt="加载器界面" style="zoom:50%;" >
+
+<img src="images\buildComfyUI\08.png " alt="加载器界面" style="zoom:50%;" >
 
 > [!NOTE]
 >
@@ -63,9 +64,9 @@
 
 右键空白处，选择“添加节点”=》"Latent" =》“空Latent”
 
-<img src="images\buildComfyUI\09.png " align = left alt="加载器界面" style="zoom:50%;" >
+<img src="images\buildComfyUI\09.png " alt="加载器界面" style="zoom:50%;" >
 
-<img src="images\buildComfyUI\10.png " align = left alt="加载器界面" style="zoom:50%;" >
+<img src="images\buildComfyUI\10.png " alt="加载器界面" style="zoom:50%;" >
 
 
 
@@ -75,7 +76,7 @@
 
 右键空白处，选择“添加节点”=》"图像" =》“保存图像”
 
-<img src="images\buildComfyUI\11.png " align = left alt="加载器界面" style="zoom:50%;" >
+<img src="images\buildComfyUI\11.png "  alt="加载器界面" style="zoom:50%;" >
 
 
 
@@ -85,9 +86,9 @@
 
 右键空白处，选择“添加节点”=》"加载器" =》“LORA加载器（pyss）”
 
-<img src="images\buildComfyUI\13.png " align = left alt="加载器界面" style="zoom:50%;" >
+<img src="images\buildComfyUI\13.png "  alt="加载器界面" style="zoom:50%;" >
 
-<img src="images\buildComfyUI\14.png " align = left alt="加载器界面" style="zoom:80%;" >
+<img src="images\buildComfyUI\14.png "  alt="加载器界面" style="zoom:80%;" >
 
 LoRA名称：选择要加载的LoRA模型
 
@@ -103,7 +104,7 @@ CLIP强度：根据模型推荐设置
 
 Checkpoint加载器的模型和CLIP分别连接LoRA的模型和CLIP，VAE链接VAE解码器的VAE口
 
-<img src="images\buildComfyUI\15.png " align = left alt="加载器界面" style="zoom:80%;" >
+<img src="images\buildComfyUI\15.png "  alt="加载器界面" style="zoom:80%;" >
 
 LoRA加载器的模型口链接K采样器的模型口，CLIP口同时连接正/反提示词的CLIP文本编码器，
 
@@ -113,13 +114,13 @@ LoRA加载器的模型口链接K采样器的模型口，CLIP口同时连接正/�
 
 
 
-<img src="images\buildComfyUI\16.png " align = left alt="加载器界面" style="zoom:80%;" >
+<img src="images\buildComfyUI\16.png " alt="加载器界面" style="zoom:80%;" >
 
 “K采样器”的Latent口链接“VAE解码”的Latent口，
 
 "VAE解码"的图像口链接“保存图像”的图像口
 
-<img src="images\buildComfyUI\17.png " align = left alt="加载器界面" style="zoom:80%;" >
+<img src="images\buildComfyUI\17.png " alt="加载器界面" style="zoom:80%;" >
 
 最终结果如下:
 
