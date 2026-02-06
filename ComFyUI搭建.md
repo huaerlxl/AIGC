@@ -55,6 +55,8 @@
 >
 > 由于正反提示词的需要，所以CLIP文本编码器需要创建两个，第二个可以通过复制ctrl+C/V复制
 
+
+
 ## 第五步创建空Latent
 
 
@@ -65,6 +67,8 @@
 
 <img src="images\buildComfyUI\10.png " align = left alt="加载器界面" style="zoom:50%;" >
 
+
+
 ## 第六步创建图像保存
 
 
@@ -72,6 +76,8 @@
 右键空白处，选择“添加节点”=》"图像" =》“保存图像”
 
 <img src="images\buildComfyUI\11.png " align = left alt="加载器界面" style="zoom:50%;" >
+
+
 
 ## 第七步创建LORA加载器
 
@@ -88,6 +94,8 @@ LoRA名称：选择要加载的LoRA模型
 模型强度：根据模型推荐设置
 
 CLIP强度：根据模型推荐设置
+
+
 
 ## 第八步连线
 
