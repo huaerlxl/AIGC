@@ -14,6 +14,7 @@
 
 - 特点：具有鲜明的几何感
 - 代表免费商用字体：思源黑体，原体：阿里妈妈发圆体<img src="images\06\siyuanalimama.png" alt="siyuanalimama" style="zoom:50%;" />
+<br>
 
 > [!NOTE]
 >
@@ -22,12 +23,13 @@
 ## 衬线字体
 
 - 使用场景：常适用于品牌，传统类海报比较严肃的场合
+ <img src="images/06/chenxian.png" alt="image.png" align = left style="zoom:25%;" /><br>
 
-  ![](images\06\chenxian.png)
 
 - 特点: 能够引发传统，权威感的情感联想
 
-- 代表免费商用字体：思源宋体，Cambria![image-20260127171904595](images\06\siyuansongti.png)
+- 代表免费商用字体：思源宋体，Cambria<img src="images/06/siyuansongti.png" align = left style="zoom:25%;" />
+<br>
 
 > [!NOTE]
 >
@@ -37,16 +39,15 @@
 
 - 使用场景：文创产品，节日海报，品牌标语，个性化邀请函等场景
 
-  ![](F:\AIGC\AIGC\images\06\shouxie.png)
+  <img src="images/06/shouxie.png" align = left style="zoom:25%;" />
+  <br>
 
 - 特点：具有自然比触感与个性化表达吗，包含毛笔，钢笔，粉笔等多种书写格式
 
 - 代表免费商用字体：剑豪体，演示悠然小楷。
-
-  ![](images\06\shouxieziti.png)
-
+ <img src="images/06/shouxieziti.png" align = left style="zoom:25%;" />
+ <br>
 > [!NOTE]
->
 > 控制连笔复杂度与字间距，避免因过度艺术化导致信息识别困难
 
 ## 五大字体风格
@@ -56,11 +57,9 @@
 极简壁画/高留白/低装饰
 
 科技产品海报/产品VI
-
-![](images\06\xiandaijianyue style.png)
-
+<img src="images/06/xiandaijianyue style.png" align = left style="zoom:25%;" />
+<br>
 > [!NOTE]
->
 > 过度极简化导致识别困难
 
 ### 国潮书法风
@@ -68,11 +67,9 @@
 毛笔笔触/水墨晕染/篆刻元素
 
 文创产品/传统节日/国风包装
-
-![](images\06\shouxie.png)
-
+<img src="images/06/shouxie.png" align = left style="zoom:25%;" />
+<br>
 > [!NOTE]
->
 > 避免生僻字型导致字体缺失，平衡艺术性和识别性，确保信息可读
 
 ### 未来科技风（赛博朋克）
@@ -80,11 +77,9 @@
 锐利切割/霓虹光效
 
 赛博海报和即时活动海报
-
-![](images\06\cyber style.png)
-
+<img src="images/06/cyber style.png" align = left style="zoom:25%;" />
+<br>
 > [!NOTE]
->
 > 光效叠加不要超过两种，避免视觉噪音
 
 ### 极简几何风
@@ -92,11 +87,9 @@
 纯粹线条/数字比例
 
 艺术展海报/抽象海报
-
-![](images\06\jijianjihe style.png)
-
+<img src="images/06/jijianjihe style.png" align = left style="zoom:25%;" />
+<br>
 > [!NOTE]
->
 > 避免字形残缺，识别度，正负空间合理
 
 ### 可爱卡通风
@@ -104,9 +97,7 @@
 圆润的笔触/夸张的结构
 
 儿童产品/趣味活动
-
-![](images\06\keaikatong.png)
-
+<img src="images/06/keaikatong.png" align = left style="zoom:25%;" />
+<br>
 > [!NOTE]
->
 > 控制圆角半径不要过度幼龄化
